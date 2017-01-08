@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaresCountView">
+        <!-- 左右2边+-按钮的宽度 -->
+        <attr name="WaresCountView_btnWidth" format="dimension" />
+        <!-- 中间TextView的宽度 -->
+        <attr name="WaresCountView_tvWidth" format="dimension" />
+        <!--<attr name="tvColor" format="color"/>-->
+        <attr name="WaresCountView_tvTextSize" format="dimension"/>
+        <attr name="WaresCountView_btnTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
